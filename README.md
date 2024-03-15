@@ -1,4 +1,4 @@
-![image](https://github.com/Devanshk11/LevelUp---An-Online-Education-platform/assets/162829558/59877c82-13fd-4f80-b991-4bef96ab12a8)![image](https://github.com/Devanshk11/LevelUp---An-Online-Education-platform/assets/162829558/bacaa050-ecfb-42dd-bb37-8f8f4b85d774)**Introduction :-**
+**Introduction :-**
 
 -In today's fast-paced world, we understand the importance of accessible and flexible learning.
 
