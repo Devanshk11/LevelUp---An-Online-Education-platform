@@ -40,7 +40,7 @@
 -Diverse Course Offerings: Another outcome is to offer a wide range of courses and learning materials catering to different subjects, levels, and interests.
 
 
-** Technology Stack :-**
+**Technology Stack :-**
 
 -FRONT END :-  HTML 5 , CSS-4.15 , JS                  
 
