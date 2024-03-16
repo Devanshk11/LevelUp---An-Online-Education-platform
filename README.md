@@ -1,4 +1,4 @@
-**Introduction :-**
+## **Introduction :-**
 
 -In today's fast-paced world, we understand the importance of accessible and flexible learning.
 
@@ -7,7 +7,7 @@
 -From skill-building to advanced subjects, we offer a diverse range of courses curated by experts.
 
 
-**Objectives :-**
+## **Objectives :-**
 
 -To Enhance the learning experience : LevelUp provides interactive video lessons which keeps the learner engaged and excited about learning.
 
@@ -19,7 +19,7 @@
 
 
 
-**Features :-**
+## **Features :-**
 
 -Simple and Intuitive Interface : LevelUp has a very easy and simple to understand user interface with bright visuals to immediately attract the learner’s attention and help them navigate them easily throughout the web application.
 
@@ -31,7 +31,7 @@
 
 
 
-**Project Outcome :-**
+## **Project Outcome :-**
 
 -Increased Access to Education: One of the primary outcomes of LearnUp is to provide greater access to education and learning resources. This includes reaching a global audience, making education more affordable, and offering flexible learning options.
 
@@ -40,11 +40,18 @@
 -Diverse Course Offerings: Another outcome is to offer a wide range of courses and learning materials catering to different subjects, levels, and interests.
 
 
-**Technology Stack :-**
+## **Technology Stack :-**
 
 -FRONT END :-  HTML 5 , CSS-4.15 , JS                  
 
 -BACK END :-   PHP-8.2.0
+
+
+## Contributing
+I welcome contributions and feedback! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+## Contact
+For any inquiries or further information, you can reach me at dskapsit@gmail.com
 
 
 
